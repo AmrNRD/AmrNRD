@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **amrmohamed257@gmail.com**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- ⚡ Fun fact :- Food , Gaming and Music🎵 are the reasons to live.
 
 <br>
 
