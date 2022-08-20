@@ -14,7 +14,7 @@
 - 🏦 I'm a Senior Software Development Engineer working for <a href="https://baklysystems.com/">Bakly Systems</a> in Egypt.
 
 - 🌱 I’m currently managing our awsome team. 
-- Worked on awsome project like <a href="https://apps.apple.com/us/app/mettle-productivity/id1498986799?ls=1">mettle</a>, <a href="http://walemah.com/">Walemah</a>, <a href="https://play.google.com/store/apps/details?id=com.stuckapp">Stuck</a>, and  <a href="https://github.com/AmrNRD/QR-POC-Multi-Tenant-Laravel">HR SAAS Attendance System</a>
+- Worked on awsome project like <a href="https://play.google.com/store/apps/details?id=com.stuckapp">Stuck?</a>, <a href="http://walemah.com/">Walemah</a>, <a href="https://apps.apple.com/us/app/mettle-productivity/id1498986799?ls=1">mettle</a>, and  <a href="https://github.com/AmrNRD/QR-POC-Multi-Tenant-Laravel">HR SAAS Attendance System</a>
 - My main skill set is PHP, Flutter, Javascript, Docker, Mysql, Android, And Java  
 - 👯 We can connect to playing video games.
 
