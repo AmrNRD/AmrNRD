@@ -15,7 +15,9 @@
 
 - 🌱 I’m currently managing our awsome team. 
 - Worked on awsome project like <a href="https://play.google.com/store/apps/details?id=com.stuckapp">Stuck?</a>, <a href="http://walemah.com/">Walemah</a>, <a href="https://apps.apple.com/us/app/mettle-productivity/id1498986799?ls=1">mettle</a>, and  <a href="https://github.com/AmrNRD/QR-POC-Multi-Tenant-Laravel">HR SAAS Attendance System</a>
-- My main skill set is PHP, Mysql, Javascript, Flutter, Docker, And Java  
+- My main skill set is PHP, Mysql, And Javascript(VueJS).
+- Also have experience working on Flutter framework, NestJS framework, MongoDB, PostgreSQL, Go, And Java.
+- And Worked with Docker, CI/CD, and Jenkins.
 - 👯 We can connect to playing video games.
 
 - 📫 How to reach me **amrmohamed257@gmail.com**
