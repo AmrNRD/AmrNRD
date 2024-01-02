@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Amr Mohamed</h1>
-<h3 align="center">Software Enginner🌟.</h3>
+<h3 align="center">Development Team Lead🌟.</h3>
 
 <br>
 
@@ -11,16 +11,16 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="amrnrd" /></p>
 
-- 🏦 I'm a Senior Software Development Engineer working for <a href="https://baklysystems.com/">Bakly Systems</a> in Egypt.
+- 🏦 I'm a Development Team Lead working for <a href="https://www.karasvet.com/">Karas Veterinary Clinic </a> in United Arab Emirates.
 
-- 🌱 I’m currently managing our awsome team. 
-- Worked on awsome project like <a href="https://play.google.com/store/apps/details?id=com.stuckapp">Stuck?</a>, <a href="http://walemah.com/">Walemah</a>, <a href="https://apps.apple.com/us/app/mettle-productivity/id1498986799?ls=1">mettle</a>, and  <a href="https://github.com/AmrNRD/QR-POC-Multi-Tenant-Laravel">HR SAAS Attendance System</a>
-- My main skill set is PHP, Mysql, And Javascript(VueJS).
-- Also have experience working on Flutter framework, NestJS framework, MongoDB, PostgreSQL, Go, And Java.
-- And Worked with Docker, CI/CD, and Jenkins.
+- 🌱 I’m currently managing our awesome team. 
+- Worked on awsome project like <a href="https://stucktheapp.com/">Stuck?</a>, <a href="http://walemah.com/">Walemah</a>, <a href="https://apps.apple.com/us/app/mettle-productivity/id1498986799?ls=1">mettle</a>, and  <a href="https://github.com/AmrNRD/QR-POC-Multi-Tenant-Laravel">HR SAAS Attendance System</a>
+- My main skill set is designing and overseeing the development of complex software systems.
+- Also have experience working on PHP, Javascript(VueJS), Flutter framework, NestJS framework, MongoDB, PostgreSQL, Mysql, Go, And Java.
+- And Worked with Docker, CI/CD, and Kubernetes.
 - 👯 We can connect to playing video games.
 
-- 📫 How to reach me **amrmohamed257@gmail.com**
+- 📫 How to reach me **contact@amrnrd.com**
 
 - ⚡ Fun fact :- Food , Gaming and Music🎵 are the reasons to live.
 
