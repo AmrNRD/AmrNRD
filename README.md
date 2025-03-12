@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Amr Mohamed</h1>
-<h3 align="center">Development Team Lead🌟.</h3>
+<h3 align="center">CTO.</h3>
 
 <br>
 
@@ -11,12 +11,12 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="amrnrd" /></p>
 
-- 🏦 I'm a Development Team Lead working for <a href="https://www.karasvet.com/">Karas Veterinary Clinic </a> in United Arab Emirates.
+- 🏦 I'm Chief Technology Officer of <a href="https://viggosoftware.com/">Viggo Software </a> in United Arab Emirates.
 
 - 🌱 I’m currently managing our awesome team. 
-- Worked on awsome project like <a href="https://stucktheapp.com/">Stuck?</a>, <a href="http://walemah.com/">Walemah</a>, <a href="https://apps.apple.com/us/app/mettle-productivity/id1498986799?ls=1">mettle</a>, and  <a href="https://github.com/AmrNRD/QR-POC-Multi-Tenant-Laravel">HR SAAS Attendance System</a>
+- Worked on awsome project like <a href="https://viggo.vet/">Viggo Vet</a>, <a href="https://stucktheapp.com/">Stuck?</a>, <a href="http://walemah.com/">Walemah</a>, <a href="https://apps.apple.com/us/app/mettle-productivity/id1498986799?ls=1">mettle</a>, and  <a href="https://github.com/AmrNRD/QR-POC-Multi-Tenant-Laravel">HR SAAS Attendance System</a>
 - My main skill set is designing and overseeing the development of complex software systems.
-- Also have experience working on PHP, Javascript(VueJS), Flutter framework, NestJS framework, MongoDB, PostgreSQL, Mysql, Go, And Java.
+- Also have experience working on PHP, Javascript, Go, Python, Flutter framework, MongoDB, PostgreSQL, Mysql, Go, And Java.
 - And Worked with Docker, CI/CD, and Kubernetes.
 - 👯 We can connect to playing video games.
 
