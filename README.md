@@ -14,7 +14,7 @@
 - 🏦 I'm Chief Technology Officer of <a href="https://viggo.vet/">viggoVet </a> in United Arab Emirates.
 
 - 🌱 I’m currently managing our awesome team. 
-- Worked on awsome project like <a href="https://viggo.vet/">Viggo Vet</a>, <a href="https://stucktheapp.com/">Stuck?</a>, <a href="http://walemah.com/">Walemah</a>, <a href="https://apps.apple.com/us/app/mettle-productivity/id1498986799?ls=1">mettle</a>, and  <a href="https://github.com/AmrNRD/QR-POC-Multi-Tenant-Laravel">HR SAAS Attendance System</a>
+- Worked on awsome project like <a href="https://viggo.vet/">Viggo Vet</a>, <a href="https://stucktheapp.com/">Stuck?</a>, <a href="http://walemah.com/">Walemah</a>, and <a href="https://apps.apple.com/us/app/mettle-productivity/id1498986799?ls=1">mettle</a>
 - My main skill set is designing and overseeing the development of complex software systems.
 - Also have experience working on PHP, Javascript, Go, Python, Flutter framework, MongoDB, PostgreSQL, Mysql, Go, And Java.
 - And Worked with Docker, CI/CD, and Kubernetes.
